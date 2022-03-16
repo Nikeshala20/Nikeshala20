@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nikeshala20
 - 👀 I’m interested in programming
-- 💞️ I’m currently learning SE
+- 💞️ I’m currently working as a developer
 
 <!---
 Nikeshala20/Nikeshala20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
